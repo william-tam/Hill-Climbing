@@ -1,0 +1,3 @@
+﻿  Hill_Climbing.cpp
+C:\Users\WillT\source\repos\Hill_Climbing\Hill_Climbing\Hill_Climbing.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hill_Climbing.vcxproj -> C:\Users\WillT\source\repos\Hill_Climbing\x64\Debug\Hill_Climbing.exe

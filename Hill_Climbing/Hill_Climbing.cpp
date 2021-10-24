@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 
-#define N 8
+#define N 10
 using namespace std;
 
 void configureRandomly(int board[][N],
